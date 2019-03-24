@@ -1,0 +1,10 @@
+<HTML>
+<HEAD>
+<TITLE>readfile</TITLE>
+</HEAD>
+<BODY>
+<?
+	readfile("data.txt");
+?>
+</BODY>
+</HTML>
